@@ -1,4 +1,4 @@
-Mini-Projeto de banco utilizando POO em modelagem UML.
+Mini-Projeto de banco utilizando POO em modelagem UML, realizando desafio da trilha de programação.
 
 Linguagem utilizada: Python.
 
